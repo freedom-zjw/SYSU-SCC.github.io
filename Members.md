@@ -55,11 +55,12 @@ title: Members
 - Jiexin Liang (18')
 - Rongyu Cai (18')
 - Xiaoxi Wang (18')
-- Jiawei Zhang (16')
-- Zixi Yan (16')
+- Jiawei Zhang (17')
+- Zixi Yan (17')
 
 ## Grade 14 and former
-
+- Mingyang Lv (17')
+- Xilong Chen (17')
 - Chenghuan Huang (16')
 - Ziming Wu (16')
 - Zhanfu Yang (16')
